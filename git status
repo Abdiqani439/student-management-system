@@ -1,0 +1,285 @@
+[33mcommit 9f89998f3c2d3da4f43bfe853b04efc4853626ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mFeature_home[m[33m)[m
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Tue Apr 28 16:34:05 2026 +0300
+
+    waxaan meesha ka saarey fileka gitignore oo aan ii shaqeyney
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+
+[33mcommit b4466b8026785b0dc6ea9e87f257c2445e9fd855[m
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Tue Apr 28 10:32:40 2026 +0300
+
+    waxaan modify gareeyey README.md.txt
+
+[1mdiff --git a/README.md.txt b/README.md.txt[m
+[1mindex 731bf3e..0579259 100644[m
+[1m--- a/README.md.txt[m
+[1m+++ b/README.md.txt[m
+[36m@@ -1,7 +1,7 @@[m
+ project wuxuu ka shaqeyn dooonaa meelo badan[m
+ Abdi [m
+ Abdi Ali[m
+[31m-<<<<<<< HEAD[m
+[32m+[m[32mMohamed[m
+ khadar[m
+ =======[m
+ Ali[m
+
+[33mcommit 72f1d5a828d66eae1da1f3b4580a220994e27f33[m
+Merge: a92dd1e 42c7a11
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Tue Apr 28 10:28:45 2026 +0300
+
+    waxaan modify gareeyey waxaan resolve gareeyey different
+
+[33mcommit 42c7a115ebb72c6425bec09d7157657039d79797[m[33m ([m[1;32mfeature-login[m[33m)[m
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Tue Apr 28 10:23:14 2026 +0300
+
+    waxaan modify gareeyey README.md.txt
+
+[1mdiff --git a/README.md.txt b/README.md.txt[m
+[1mindex 4f7e579..08efe0d 100644[m
+[1m--- a/README.md.txt[m
+[1m+++ b/README.md.txt[m
+[36m@@ -1,3 +1,5 @@[m
+ project wuxuu ka shaqeyn dooonaa meelo badan[m
+ Abdi [m
+[31m-Abdi Ali[m
+\ No newline at end of file[m
+[32m+[m[32mAbdi Ali[m
+[32m+[m[32mAli[m
+[32m+[m[32mMohamed[m
+\ No newline at end of file[m
+
+[33mcommit a92dd1e928daa5cb03d21051eea412527114a5f8[m
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Tue Apr 28 10:21:59 2026 +0300
+
+    waxaan modify gareeyey README.md.txt
+
+[1mdiff --git a/README.md.txt b/README.md.txt[m
+[1mindex 4f7e579..65f2b2b 100644[m
+[1m--- a/README.md.txt[m
+[1m+++ b/README.md.txt[m
+[36m@@ -1,3 +1,4 @@[m
+ project wuxuu ka shaqeyn dooonaa meelo badan[m
+ Abdi [m
+[31m-Abdi Ali[m
+\ No newline at end of file[m
+[32m+[m[32mAbdi Ali[m
+[32m+[m[32mkhadar[m
+\ No newline at end of file[m
+
+[33mcommit 3134cddf198bb0f83c95a8ab216e9ddac0c3a060[m
+Author: Abdiqani Abdilahi <abdikani439@gmail.com>
+Date:   Tue Apr 28 10:15:29 2026 +0300
+
+    Update index.html.txt
+
+[1mdiff --git a/index.html.txt b/index.html.txt[m
+[1mindex e69de29..3da0943 100644[m
+[1m--- a/index.html.txt[m
+[1m+++ b/index.html.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mraw.txt[m[41m[m
+
+[33mcommit b521979b456f778ace5db7161df187740eb176d9[m
+Author: Abdiqani Abdilahi <abdikani439@gmail.com>
+Date:   Tue Apr 28 10:06:57 2026 +0300
+
+    Update students.txt.txt
+
+[1mdiff --git a/students.txt.txt b/students.txt.txt[m
+[1mindex 9b6c257..63aa7c4 100644[m
+[1m--- a/students.txt.txt[m
+[1m+++ b/students.txt.txt[m
+[36m@@ -6,4 +6,4 @@[m [mMohamed[m
+ Xasan[m
+ Osman[m
+ khadar[m
+[31m-[m
+[32m+[m[32mAbdikariim[m
+
+[33mcommit 779ad5b7815d5078e91a9f5cd185eadb2ea2c1bc[m
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Tue Apr 28 10:05:00 2026 +0300
+
+    waxaan modify gareeyey student.txt
+
+[1mdiff --git a/students.txt.txt b/students.txt.txt[m
+[1mindex 5f1228d..9b6c257 100644[m
+[1m--- a/students.txt.txt[m
+[1m+++ b/students.txt.txt[m
+[36m@@ -3,9 +3,7 @@[m [mFatima[m
+ Ali[m
+ Ahmed Mohamed[m
+ Mohamed[m
+[31m-<<<<<<< HEAD[m
+ Xasan[m
+[31m-=======[m
+ Osman[m
+ khadar[m
+[31m->>>>>>> 7754143bb1545c0b7615b01b3741bba3b69dc5fc[m
+[41m+[m
+
+[33mcommit fc4ff35d848703924df01433a32b5120b799b792[m
+Merge: 418be81 7754143
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Tue Apr 28 10:03:19 2026 +0300
+
+    waxaan modify gareeyey student.txt
+
+[33mcommit 418be81de62211fdc012a79e1700de189591f7a5[m
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Mon Apr 27 17:43:53 2026 +0300
+
+    waxaan dib u hagaajiyey fileka student.txt
+
+[1mdiff --git a/students.txt.txt b/students.txt.txt[m
+[1mindex bcb4d51..f798b4e 100644[m
+[1m--- a/students.txt.txt[m
+[1m+++ b/students.txt.txt[m
+[36m@@ -3,3 +3,4 @@[m [mFatima[m
+ Ali[m
+ Ahmed Mohamed[m
+ Mohamed[m
+[32m+[m[32mXasan[m
+\ No newline at end of file[m
+
+[33mcommit 7754143bb1545c0b7615b01b3741bba3b69dc5fc[m
+Author: abdikani439-dot <abdikani439@gmail.com>
+Date:   Mon Apr 27 17:35:28 2026 +0300
+
+    Update students.txt.txt
+
+[1mdiff --git a/students.txt.txt b/students.txt.txt[m
+[1mindex bcb4d51..0c75c37 100644[m
+[1m--- a/students.txt.txt[m
+[1m+++ b/students.txt.txt[m
+[36m@@ -3,3 +3,5 @@[m [mFatima[m
+ Ali[m
+ Ahmed Mohamed[m
+ Mohamed[m
+[32m+[m[32mOsman[m
+[32m+[m[32mkhadar[m
+
+[33mcommit 4e602d620764a1884f6fced64c2ef9a8e0072382[m
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Mon Apr 27 17:20:55 2026 +0300
+
+    waxaan modify gareeyey gitignore iyo student.txt
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/students.txt.txt b/students.txt.txt[m
+[1mindex e0150b5..bcb4d51 100644[m
+[1m--- a/students.txt.txt[m
+[1m+++ b/students.txt.txt[m
+[36m@@ -1,3 +1,5 @@[m
+ Ahmed[m
+ Fatima[m
+[31m-Ali[m
+\ No newline at end of file[m
+[32m+[m[32mAli[m
+[32m+[m[32mAhmed Mohamed[m
+[32m+[m[32mMohamed[m
+
+[33mcommit ea15ec401d54f154ddca4f5b7fdc62827a052491[m
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Sat Apr 25 10:59:12 2026 +0300
+
+    waxaad dib u soo celiyey student file
+
+[1mdiff --git a/students.txt.txt b/students.txt.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e0150b5[m
+[1m--- /dev/null[m
+[1m+++ b/students.txt.txt[m
+[36m@@ -0,0 +1,3 @@[m
+[32m+[m[32mAhmed[m
+[32m+[m[32mFatima[m
+[32m+[m[32mAli[m
+\ No newline at end of file[m
+
+[33mcommit f65862b8873b69a317e1d5c798ed5174c5367320[m
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Sat Apr 25 10:54:52 2026 +0300
+
+    waxaan modify gareeyey oo aan wax ka badalay README.md
+
+[1mdiff --git a/README.md.txt b/README.md.txt[m
+[1mindex b22b46e..4f7e579 100644[m
+[1m--- a/README.md.txt[m
+[1m+++ b/README.md.txt[m
+[36m@@ -1 +1,3 @@[m
+[31m-project wuxuu ka shaqeyn dooonaa meelo badan[m
+\ No newline at end of file[m
+[32m+[m[32mproject wuxuu ka shaqeyn dooonaa meelo badan[m
+[32m+[m[32mAbdi[m[41m [m
+[32m+[m[32mAbdi Ali[m
+\ No newline at end of file[m
+[1mdiff --git a/students.txt.txt b/students.txt.txt[m
+[1mdeleted file mode 100644[m
+[1mindex e0150b5..0000000[m
+[1m--- a/students.txt.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1,3 +0,0 @@[m
+[31m-Ahmed[m
+[31m-Fatima[m
+[31m-Ali[m
+\ No newline at end of file[m
+
+[33mcommit 33105835dd3d458a647b752dd479c865d99c3f8a[m
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Thu Apr 23 08:47:39 2026 +0300
+
+    isbadalada ku yimid studentka iyo Readme
+
+[1mdiff --git a/students.txt.txt b/students.txt.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e0150b5[m
+[1m--- /dev/null[m
+[1m+++ b/students.txt.txt[m
+[36m@@ -0,0 +1,3 @@[m
+[32m+[m[32mAhmed[m
+[32m+[m[32mFatima[m
+[32m+[m[32mAli[m
+\ No newline at end of file[m
+
+[33mcommit cf0dd65698f4a46f3045fc9a7b9bbfb7c095bf61[m
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Thu Apr 23 08:47:15 2026 +0300
+
+    isbadalada ku yimid studentka iyo Readme
+
+[1mdiff --git a/README.md.txt b/README.md.txt[m
+[1mindex e69de29..b22b46e 100644[m
+[1m--- a/README.md.txt[m
+[1m+++ b/README.md.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mproject wuxuu ka shaqeyn dooonaa meelo badan[m
+\ No newline at end of file[m
+
+[33mcommit 869784bc97688c2914ed263680c028c04d5a7f85[m
+Author: Eng Abdiqani <Abdikani439@gmail.com>
+Date:   Thu Apr 23 08:23:26 2026 +0300
+
+    Initial project setup with basic files
+
+[1mdiff --git a/README.md.txt b/README.md.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/app.js.txt b/app.js.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/index.html.txt b/index.html.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/style.css.txt b/style.css.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
